@@ -1,2 +1,6 @@
 # flutter_dio_getx
 简单封装getx和dio
+封装BaseStatefulWidget
+封装BaseController
+简单封装dio
+实现状态页展示
